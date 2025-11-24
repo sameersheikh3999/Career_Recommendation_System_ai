@@ -60,6 +60,7 @@ AI_Powered_Career_Recommendation_System/
    npm install
    npm start
    ```
+   ![Alt text](https://github.com/sameersheikh3999/Career_Recommendation_System_ai/blob/main/frontend.png)
 
 4. **Access the Application**
    - Frontend: http://localhost:3000
